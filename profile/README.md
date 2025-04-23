@@ -2,7 +2,7 @@
 
 # Hello, we're Embeddable 👋 
 
-We’re the award-winning partner delivering tech consultancy and web development that can supports business to create new solutions, raise investment, scale, and reach their definition of success.
+We’re the award-winning partner delivering tech consultancy and web development that support businesses to create new solutions, raise investment, scale, and reach their definition of success.
 
 ## Our mission is to support businesses to scale and succeed through technology.
 
